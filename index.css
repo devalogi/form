@@ -1,0 +1,18 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url("https://img.traveltriangle.com/blog/wp-content/uploads/2018/11/Canada-Mountains.jpg") ;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+}
+form{
+    width: 300px;
+    height: 400px;
+    position: relative;
+    margin: 4% auto;
+    background-color: white;
+    padding-top: 20px;
+    padding: 70px;
+    text-align: center;
+}
